@@ -1,2 +1,2 @@
 # Cloudfast
-Fastt
+Readme for fast
